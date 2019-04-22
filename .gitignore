@@ -1,3 +1,4 @@
 *.mat
 *.h5
-.idea/*
+*.npy
+*.png
